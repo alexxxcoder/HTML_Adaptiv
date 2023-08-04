@@ -1,0 +1,25 @@
+@import "/css/nullstyle.css";
+@import "/css/asset/header.css";
+@import "/css//asset/footer.css";
+@import "/css//asset/main.css";
+.wraper {
+  min-height: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+._container {
+  max-width: 1046px;
+  margin: 0 auto;
+  padding: 0px 15px;
+  box-sizing: content-box;
+}
+
+.page__services {
+  margin: -111px 0px 0px 0px;
+  position: relative;
+  z-index: 2;
+}
+
+/*# sourceMappingURL=style.css.map */

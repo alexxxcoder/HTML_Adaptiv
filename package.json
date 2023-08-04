@@ -1,0 +1,12 @@
+{
+  "name": "testhtml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx live-server --port=777",
+    "css": "npx sass sass/index.scss:css/style.css --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
