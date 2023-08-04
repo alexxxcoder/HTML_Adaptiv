@@ -116,7 +116,7 @@
 
 @media(min-width: 670px) {
     .services__body {
-        display: flex;
+        display: grid;
         flex-wrap: wrap;
         margin: 0px -15px -30px;
     }
